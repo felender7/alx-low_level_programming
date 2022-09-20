@@ -4,6 +4,8 @@
 /** 
 * main -  Prints if number is positive, zero or negative
 *
+* Description: 'New project for checking if a file is positive or negative'
+*
 * return: Always 0 (success)
 */
 int main(void)
