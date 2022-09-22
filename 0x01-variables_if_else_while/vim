@@ -1,0 +1,9 @@
+#include <stdio>
+/**
+ * main - print alphabet from zero to ten using putchar method
+ *
+ * description: print zero to ten in putchar function
+ *
+ * Return: always return 0 (success)
+ */
+int main(void)
